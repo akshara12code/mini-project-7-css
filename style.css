@@ -1,0 +1,117 @@
+*{
+    box-sizing:border box;
+    margin: 0;
+    padding: 0;
+
+    
+}
+.box1{
+    height:500px;
+    width:300px;
+    background-color:hsl(216, 50%, 16%);
+    border:2px solid black;
+    border-radius:20px;
+    -webkit-border-radius:20px;
+    -moz-border-radius:20px;
+    -ms-border-radius:20px;
+    -o-border-radius:20px;
+    background-color:hsl(216, 50%, 16%);
+}
+img{
+    width:90%;
+    height:50%;
+    position:relative;
+    top:20px;
+    left:14px;
+    border-radius:20px;
+    -webkit-border-radius:20px;
+    -moz-border-radius:20px;
+    -ms-border-radius:20px;
+    -o-border-radius:20px;
+    background-color:hsl(216, 50%, 16%);
+}
+
+.box2{
+    /* border:2px solid white; */
+    height:200px;
+    width:280px;
+    margin:5px;
+    position:relative;
+    top:21px;
+    left:2px;
+    background-color:hsl(216, 50%, 16%);
+
+}
+.upper{
+    color:white;
+    position:relative;
+    top:10px;
+    font-size:25px;
+    background-color:hsl(216, 50%, 16%);
+    height:100px;
+    width:200px;
+}
+.line1{
+    color:hsl(215, 29%, 50%);
+    margin-top:20px;
+    margin-left:9px;
+    background-color:hsl(216, 50%, 16%);
+
+
+}
+.line2{
+    color:hsl(178, 100%, 50%);
+    margin-left:10px;
+    margin-top:10px;
+    background-color:hsl(216, 50%, 16%);
+}
+.line3{
+    color:hsl(215, 29%, 50%);
+    position:relative;
+    bottom:20px;
+    left:190px;
+    background-color:hsl(216, 50%, 16%);
+    width:100px;
+
+
+}
+hr{
+    color:hsl(215, 29%, 50%);
+    background-color:hsl(216, 50%, 16%);
+
+}
+
+
+.immg{
+    height:45px;
+    width:45px;
+    /* border:1px solid white; */
+    border-radius:50px;
+    -webkit-border-radius:50px;
+    -moz-border-radius:50px;
+    -ms-border-radius:50px;
+    -o-border-radius:50px;
+    background-color:hsl(216, 50%, 16%);
+}
+
+.footer{
+    position:relative;
+    color:white;
+    top:-14px;
+    left:80px;
+    width:200px;
+    background-color:hsl(216, 50%, 16%);
+}
+.jules{
+    background-color:hsl(216, 50%, 16%);
+}
+
+
+
+.container{
+    background-color:hsl(217, 54%, 11%);
+    display:flex;
+    justify-content:center;
+    align-content:center;
+
+}
